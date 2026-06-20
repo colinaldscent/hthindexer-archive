@@ -1,2 +1,14 @@
 # hthindexer-archive
-HTML page archive and documentation
+
+资料页面发布仓库
+
+这里用于保留自动生成页面的文件记录和基本仓库信息。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
